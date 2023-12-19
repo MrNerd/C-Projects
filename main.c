@@ -1,8 +1,16 @@
-#include <"stdio.h">
+#include <stdio.h>
 
 int main(void) {
-    printf("H3llO P40pl3. \n")
-return 0;
+
+    int a = 10;
+    int b = 35;
+    int c = a + b;
+    printf("%d\n",c);
+
+
+
+
+    
+    return 0;
 
 }
-
